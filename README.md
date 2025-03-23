@@ -19,9 +19,9 @@ This software is developed for creating invoices and managing the transactions o
 6. Open localhost/invoice_soft from browser.
 
 **Login credentials**
-username: shiv@email.com
+username: admin@shiv.com
 
-password: 123456789
+password: 70908090
 
 
 ### Feel free to give feedback and ask queries. You can also contribute to this project ###
